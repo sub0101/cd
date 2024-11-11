@@ -1,0 +1,2 @@
+Single-line comment: // this is first comment
+Single-line comment: //this is second comment
